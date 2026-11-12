@@ -38,7 +38,7 @@ O diagrama Entidade-Relacionamento (DER) pode ser encontrado na pasta `/document
 ## 7. Como Instalar
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/assistencia-tecnica.git](https://github.com/seu-usuario/assistencia-tecnica.git)
+    git clone [https://github.com/matheus110506/assistencia-tecnica.git](https://github.com/matheus110506/assistencia-tecnica.git)
     ```
 2.  Importe o arquivo `banco.sql` para o seu servidor SQL Server.
 
@@ -88,6 +88,6 @@ Esta aplicação foi validada através de testes manuais. Para verificar o funci
 
 ## 13. Melhorias Futuras
 1. Módulo para gerar relatórios de chamados concluídos.
-2. Criptografia hash das senhas.
-3. Interface para reveter exclusões.
-4. Controle de acesso do sistema.
+2. Criptografia das senhas para armazenamento no banco de dados.
+3. Interface para reveter exclusões de registros.
+4. Controle de acesso ao sistema.
