@@ -40,7 +40,7 @@ O diagrama Entidade-Relacionamento (DER) pode ser encontrado na pasta `/document
     ```bash
     git clone [https://github.com/seu-usuario/assistencia-tecnica.git](https://github.com/seu-usuario/assistencia-tecnica.git)
     ```
-2.  Importe o arquivo `banco.sql` para o seu servidor MySQL.
+2.  Importe o arquivo `banco.sql` para o seu servidor SQL Server.
 
 ## 8. Como Configurar
 1. Abra o arquivo conexao.php na raiz do projeto.
